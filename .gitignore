@@ -1,0 +1,5 @@
+.DS_Store
+.vscode/
+files/
+app/node_modules/
+app/dist/
